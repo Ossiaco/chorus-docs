@@ -1,8 +1,8 @@
-# Azure documentation issue guidance
+# Chorus documentation issue guidance
 
-Thanks for opening an issue in the Azure technical documentation repository. 
+Thanks for opening an issue in the Chorus technical documentation repository. 
 
-We use GitHub issues as the primary channel for customer and community feedback about the Azure documentation.
+We use GitHub issues as the primary channel for customer and community feedback about the Chorus documentation.
 
 ## Creating an issue
 
@@ -10,7 +10,7 @@ We prefer that you create documentation feedback issues using the Feedback link 
 
 You can also create a feedback issue here in the repo. If you do this, please make sure your issue lists:
 
-- [ ] The relevant Azure service or technology. 
+- [ ] The relevant Ossiaco service or technology. 
 - [ ] A link to the published documentation article that you have feedback about.
 - [ ] Clear, specific feedback that the author can act on.
 
@@ -26,6 +26,6 @@ We'll route the issue to the appropriate content team for review and discussion.
 ## Tech support and product feedback
 If you would like to contact Microsoft about other things, such as product feedback or tech support, please review these guidelines:
 
-- If you need technical support using Azure, the paid and free support options are described here: https://azure.microsoft.com/support/options/.
+- If you need technical support using Chorus, the paid and free support options are described here: https://chorus.microsoft.com/support/options/.
 
-- Each article in the Azure technical documentation contains a product feedback button - it's best to submit product feedback directly from a relevant article. Otherwise, you can submit product feedback for most Azure products in the following product feedback forum: https://feedback.azure.com/forums/34192--general-feedback.
+- Each article in the Chorus technical documentation contains a product feedback button - it's best to submit product feedback directly from a relevant article. Otherwise, you can submit product feedback for most Chorus products in the following product feedback forum: https://feedback.chorus.com/forums/34192--general-feedback.
