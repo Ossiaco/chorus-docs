@@ -1,0 +1,112 @@
+{
+  "build": {
+    "markdownEngineName": "markdig",
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**"
+        ],
+        "src": "articles",
+        "dest": "."
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**"
+        ],
+        "src": "bread",
+        "dest": "bread"
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.svg",
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.jpeg",
+          "**/*.gif"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/_themes/**"
+        ],
+        "src": "articles",
+        "dest": "."
+      },
+      {
+        "files": [
+          "includes/**/*.svg",
+          "includes/**/*.png",
+          "includes/**/*.jpg",
+          "includes/**/*.jpeg",
+          "includes/**/*.gif"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/_themes/**"
+        ],
+        "src": null,
+        "dest": null
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/azure-docs",
+      "feedback_product_url": "https://feedback.azure.com/forums/34192--general-feedback",
+      "breadcrumb_path": "/azure/bread/toc.json",
+      "brand": "azure",
+      "searchScope": [
+        "Azure"
+      ],
+      "recommendations": true,
+      "contributors_to_exclude": [
+      ],
+      "_op_documentIdPathDepotMapping": {
+      }
+    },
+    "fileMetadata": {
+      "author": {
+      },
+      "feedback_system": {
+      },
+      "feedback_product_url": {
+
+      },
+      "searchScope": {
+      },
+      "titleSuffix": {
+      },
+      "featureFlags": {
+        "articles/**/*.md": [
+          "show_learn_banner"
+        ],
+        "articles/active-directory/**/*.md": [
+          "binaryRatingUpdate"
+        ]
+      },
+      "learn_banner_products": {
+        "articles/**/*.md": [
+          "azure"
+        ],
+      }
+    },
+    "template": [
+      "docs.html"
+    ],
+    "dest": "azure"
+  }
+}
