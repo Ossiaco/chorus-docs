@@ -65,12 +65,12 @@
     "externalReference": [],
     "globalMetadata": {
       "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/azure-docs",
-      "feedback_product_url": "https://feedback.azure.com/forums/34192--general-feedback",
-      "breadcrumb_path": "/azure/bread/toc.json",
-      "brand": "azure",
+      "feedback_github_repo": "ossiaco/chorus-docs",
+      "feedback_product_url": "https://feedback.chorus.com/forums/34192--general-feedback",
+      "breadcrumb_path": "/chorus/bread/toc.json",
+      "brand": "chorus",
       "searchScope": [
-        "Azure"
+        "Chorus"
       ],
       "recommendations": true,
       "contributors_to_exclude": [
@@ -100,13 +100,13 @@
       },
       "learn_banner_products": {
         "articles/**/*.md": [
-          "azure"
+          "chorus"
         ],
       }
     },
     "template": [
       "docs.html"
     ],
-    "dest": "azure"
+    "dest": "chorus"
   }
 }

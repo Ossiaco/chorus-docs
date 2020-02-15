@@ -1,6 +1,6 @@
-# Contributing to Ossiaco Azure Documentation
+# Contributing to Ossiaco Documentation
 
-Thank you for taking the time to contribute to the Ossiaco Azure documentation.
+Thank you for taking the time to contribute to the Ossiaco documentation.
 
 This guide covers some general topics around contribution and refers out to our [contributors guide](https://docs.ossiaco.com/contribute) for more detailed explanations where relevant.
 
